@@ -129,7 +129,7 @@ namespace JarvisCore
         public string smsRuKey = "";
         public string bingKey = "";
 
-        public string weatherAppID = "9495e626905d2f427771767ff754db3e";    // надо параметризовать в настройки xml, получается отсюда http://home.openweathermap.org/
+        public string weatherAppID = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";    // надо параметризовать в настройки xml, получается отсюда http://home.openweathermap.org/
         public string cityName = "Krasnodar";                               // надо параметризовать в настройки xml
 
         // Порог опознавания звука
